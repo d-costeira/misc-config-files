@@ -1,0 +1,17 @@
+Cooling - Fan Speed - 50% (note: due to 5015 fans overpowering hotend)
+
+Infill - Infill Pattern - Gyroid
+
+Material - Printing Temperature Initial Layer - [printing temperature + 10]
+
+Shell - Initial Layer Horizontal Expansion - -1.0mm
+
+Speed - Enable Acceleration Control - FALSE
+Speed - Enable Jerk Control - FALSE
+
+Support - Enable Support Brim - TRUE
+Support - Enable Support Interface - TRUE
+
+Travel - Combing Mode - Infill
+
+Experimental - Infill Travel Optimization - TRUE
