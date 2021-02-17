@@ -983,8 +983,8 @@
  *     O-- FRONT --+
  */
 // #define NOZZLE_TO_PROBE_OFFSET { 24, -47, 0 } // for BIQU Mount mounted on right
-#define NOZZLE_TO_PROBE_OFFSET { 4, -47, 0 } // for BIQU Mount mounted on center CHANGE CHANGE
-//#define NOZZLE_TO_PROBE_OFFSET { -1.5, -34, 0 } // for custom-printed mount CHANGE CHANGE
+//#define NOZZLE_TO_PROBE_OFFSET { 4, -47, 0 } // for BIQU Mount mounted on center CHANGE CHANGE
+#define NOZZLE_TO_PROBE_OFFSET { -1.5, -34, 0 } // for custom-printed mount CHANGE CHANGE
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
