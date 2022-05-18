@@ -15,3 +15,6 @@ Support - Enable Support Interface - TRUE
 Travel - Combing Mode - Infill
 
 Experimental - Infill Travel Optimization - TRUE
+
+Esteps / mm : 130
+Maximum recommended retraction is 1.5mm @ 35mm/sec
