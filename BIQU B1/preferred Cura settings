@@ -18,3 +18,5 @@ Experimental - Infill Travel Optimization - TRUE
 
 Esteps / mm : 130
 Maximum recommended retraction is 1.5mm @ 35mm/sec
+
+new pring area = x205 y205 z200
